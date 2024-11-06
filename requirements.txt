@@ -1,0 +1,14 @@
+telethon
+googletrans==3.1.0a0
+pydub
+moviepy
+SpeechRecognition
+youtube_dl
+aiohttp
+beautifulsoup4
+psutil
+GitPython
+Pillow
+emoji
+bs4
+asyncio
